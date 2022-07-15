@@ -1,4 +1,4 @@
-package com.rsouza.dsmeta.service;
+package com.rsouza.dsmeta.services;
 
 import com.rsouza.dsmeta.entities.Sale;
 import com.rsouza.dsmeta.repositories.SaleRepository;
