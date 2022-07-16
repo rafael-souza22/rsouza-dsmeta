@@ -9,7 +9,7 @@ function Header() {
                 <h1>rsouza-DSMeta</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://www.linkedin.com/in/rafael-souza22/"> Rafael Souza</a>
+                    <a href="https://www.linkedin.com/in/rafael-souza22/"> @Rafael Souza</a>
                 </p>
             </div>
         </header>
